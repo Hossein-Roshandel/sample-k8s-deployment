@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier
+_commit: 0.6.1
+_src_path: https://github.com/fastapi-mvc/copier-project.git
+aiohttp: true
+author: Hossein Roshandel
+chart_name: quasar-first
+container_image_name: quasar-first
+copyright_date: '2024'
+email: hossein.roshandel@gmail.com
+github_actions: true
+helm: true
+license: MIT
+nix: false
+project_description: A sample fastapi app to be deployed on Kubernetes
+project_name: quasar-first
+redis: true
+repo_url: git@github.com:Hossein-Roshandel/sample-k8s-deployment.git
+script_name: quasar-first
+version: 0.1.0
